@@ -1,1 +1,6 @@
-
+{
+"Title":"The text in the error message is not translated into English when trying to create a new list on the main screen",
+"AR":"The text in the error message is displayed in Spanish when the user has the English language installed on the device",
+"ER":"The text in the error message is displayed in English",
+"Priority":"Normal"
+}
